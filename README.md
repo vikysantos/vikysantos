@@ -1,9 +1,9 @@
- Hi there I'm Vitália Santos 👋🧡
+ ## Hi there I´m Vitália Santos  👋🧡 
 
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: vitaliafsantos@gmail.com
-- 😄 Pronouns: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/vikysantos">
