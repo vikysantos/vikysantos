@@ -1,14 +1,14 @@
- ## Hi there I´m Vitália Santos  👋🧡 
+ ### Hi there I´m Vitália Santos  👋🧡 
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me: vitaliafsantos@gmail.com
 
 
 <div align="center">
   <a href="https://github.com/vikysantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikysantos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikysantos&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vikysantos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikysantos&layout=compact&langs_count=7&theme=synthwave"/>
 </div>       
 
 <div style="display: inline_block" align="center"><br>
