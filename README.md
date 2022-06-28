@@ -1,7 +1,7 @@
  ### Hi there I´m Vitália Santos  👋🧡 
 
-- 🔭  I am looking to become a FullStack developer
-- 🌱 I’m currently learning React JS
+- 🔭 I am looking to become a FullStack developer
+- 🌱 And currently learning React JS
 
 
 
