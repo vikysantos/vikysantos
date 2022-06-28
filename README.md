@@ -1,8 +1,8 @@
  ### Hi there I´m Vitália Santos  👋🧡 
 
-- 🔭 I’m currently working on front-end
+- 🔭  I am looking to become a FullStack developer
 - 🌱 I’m currently learning React JS
-- 📫 How to reach me: vitaliafsantos@gmail.com
+
 
 
 <div align="center">
