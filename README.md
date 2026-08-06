@@ -1,31 +1,105 @@
- ### Hi there I´m Vitália Santos  👋🧡 
+# Hi, I'm Vitalia Santos 👋
 
-- 🔭 I am looking to become a data scientist
-- 🌱 And currently learning JS and Python
+I'm a Systems Analyst based in Portugal, currently transitioning into Data Science.
 
+After a few years working with enterprise systems, business processes and automation, I realised that what motivates me the most is working with data—understanding it, exploring it and using it to solve real problems.
 
+This GitHub is where I document that journey.
 
-<div align="center">
-  <a href="https://github.com/vikysantos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vikysantos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikysantos&layout=compact&langs_count=7&theme=synthwave"/>
-</div>       
+---
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="viky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="viky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="viky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="viky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
+## What you'll find here
 
- <hr>
-  
-  <div align="center"> 
-  
-   <a href="https://www.linkedin.com/in/vitalia-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://discord.com/channels/@Ailativ#7347"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:vitaliafsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+- Data analysis projects using Python and Pandas
+- SQL exercises and database exploration
+- Machine Learning projects as I learn
+- Automation scripts
+- Personal experiments and challenges
 
-</div>
- 
+Everything here reflects my learning process. Some projects are simple, others are more ambitious, but every repository represents a new skill I've developed.
+
+---
+
+## Currently learning
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Data Visualization
+- Machine Learning
+- Data Engineering fundamentals
+
+---
+
+## Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,docker" />
+</p>
+
+I also work with:
+
+- Power BI
+- Excel
+- SAP
+- APIs
+- ETL concepts
+
+---
+
+## Current Goals
+
+- Build a strong Data Science portfolio
+- Publish complete end-to-end projects
+- Learn cloud technologies for data
+- Improve my Machine Learning skills
+- Contribute to open source
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vikysantos&show_icons=true&theme=github_dark_dimmed&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikysantos&layout=compact&theme=github_dark_dimmed&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikysantos&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Outside of coding
+
+When I'm not studying, you'll probably find me:
+
+- Reading about AI and data
+- Working on personal projects
+- Learning something new
+- Planning the next project for this GitHub
+
+---
+
+## Let's connect
+
+<p align="left">
+
+<a href="mailto:vitaliafsantos@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vitalia-santos/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
